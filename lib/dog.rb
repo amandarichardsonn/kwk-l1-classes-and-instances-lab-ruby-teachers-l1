@@ -1,5 +1,6 @@
 # dog.rb
-class dog
+class Dog
+  def initlialize(fido, snoopy, lassie)
   @fido = fido
   @snoopy = snoopy
   @lassie = lassie
